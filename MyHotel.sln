@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyHotel", "MyHotel\MyHotel.csproj", "{B7BBD66D-A7D2-4676-9FF3-EB54225D24DB}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "TestSetup", "TestSetup\TestSetup.vdproj", "{5FB74E5B-F373-4CD2-B515-ABC88942F307}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7BBD66D-A7D2-4676-9FF3-EB54225D24DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7BBD66D-A7D2-4676-9FF3-EB54225D24DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7BBD66D-A7D2-4676-9FF3-EB54225D24DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7BBD66D-A7D2-4676-9FF3-EB54225D24DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FB74E5B-F373-4CD2-B515-ABC88942F307}.Debug|Any CPU.ActiveCfg = Debug
+		{5FB74E5B-F373-4CD2-B515-ABC88942F307}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
